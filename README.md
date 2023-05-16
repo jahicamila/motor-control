@@ -1,1 +1,1 @@
-# motor-control-project
+# Arduino motor control
