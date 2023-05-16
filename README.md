@@ -1,1 +1,1 @@
-# Arduino motor control
+# This project simulates driving a toy car using a joystick. Additionally there is an ultrasonic sensor that detects obstacles in front of the car and causes it to stop when an obstacle is detected at a specific distance.
